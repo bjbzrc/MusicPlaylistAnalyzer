@@ -1,0 +1,10 @@
+/Users/BJB/Desktop/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.deps.json
+/Users/BJB/Desktop/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.runtimeconfig.json
+/Users/BJB/Desktop/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.runtimeconfig.dev.json
+/Users/BJB/Desktop/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.dll
+/Users/BJB/Desktop/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.pdb
+/Users/BJB/Desktop/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.csproj.CoreCompileInputs.cache
+/Users/BJB/Desktop/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.AssemblyInfoInputs.cache
+/Users/BJB/Desktop/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.AssemblyInfo.cs
+/Users/BJB/Desktop/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.dll
+/Users/BJB/Desktop/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.pdb

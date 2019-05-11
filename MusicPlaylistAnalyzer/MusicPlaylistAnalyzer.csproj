@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="MusicPlaylist.cs" />
+    <Compile Remove="Properties\AssemblyInfo.cs" />
+    <Compile Remove="TSVReader.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="playlist.csv" />
+    <None Remove="MusicPlaylistReport.txt" />
+    <None Remove="finalReport.txt" />
+    <None Remove="MusicPlaylist.config" />
+    <None Remove="TSVReader.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+</Project>
